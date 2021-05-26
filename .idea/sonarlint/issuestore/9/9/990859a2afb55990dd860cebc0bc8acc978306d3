@@ -1,0 +1,27 @@
+
+N
+java:S2387L"3"background" is the name of a field in "Component".(Ç¹Ï²ýÿÿÿÿ
+N
+java:S1135„"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+G
+java:S1948L",Make "background" transient or serializable.(Ç¹Ï²ýÿÿÿÿ
+M
+java:S1135{"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'javax.swing.JButton'.(´ÀÃ“
+=
+java:S1659#""Declare "exit" on a separate line.(Ò—¢Þÿÿÿÿÿ
+Q	java:S125h"<This block of commented-out lines of code should be removed.(®µ¦¨
+=
+java:S1659#""Declare "help" on a separate line.(Ò—¢Þÿÿÿÿÿ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(¨Ê¬•ûÿÿÿÿ
+I
+java:S1128	"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ
+H
+java:S1128
+"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+n	java:S116%"TRename this field "MainPanel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÃÞ”ÿÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃýÿÿÿÿ

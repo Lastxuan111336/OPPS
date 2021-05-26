@@ -1,0 +1,27 @@
+
+?
+java:S1444")Make this "public static mbX" field final(áíŠğ
+D
+java:S1444")Make this "public static mbY" field final(¹¶’ùÿÿÿÿ
+A
+java:S1444",Make this "public static minLen" field final(ş“`
+e
+java:S1104"OMake mbX a static final constant or non-public and provide accessors if needed.(áíŠğ
+j
+java:S1104"OMake mbY a static final constant or non-public and provide accessors if needed.(¹¶’ùÿÿÿÿ
+g
+java:S1104"RMake minLen a static final constant or non-public and provide accessors if needed.(ş“`
+u
+java:S1488e"ZImmediately return this expression instead of assigning it to the temporary variable "l3".(É„ÉÍûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(—æÎĞúÿÿÿÿ
+E
+java:S1172"*Remove this unused method parameter "mby".(¬‡Åşÿÿÿÿ
+b
+java:S1871""LThis branch's code block is the same as the block for the branch on line 28.(å¥‡
+b
+java:S1871"LThis branch's code block is the same as the block for the branch on line 25.(€µ†ß
+Q	java:S125-"<This block of commented-out lines of code should be removed.(Î ÃÄ
+Q	java:S1250"<This block of commented-out lines of code should be removed.(š¢»³
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ÉŒüş
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(Û¹ˆùÿÿÿÿ
